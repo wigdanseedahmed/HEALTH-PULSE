@@ -1,0 +1,378 @@
+[
+ {
+  "Name": "moalem",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.58321,
+  "Long": 32.528409,
+  "Address": "الخرطوم شمال، جنوب وزارة التربية و التعليم"
+ },
+ {
+  "Name": "Ibn Seena ",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.577207,
+  "Long": 32.542611,
+  "Address": "العمارات شارع محمد نجيب، تقاطع شارع 21 مع محمد نجيب ، جنوب محلية الخرطوم"
+ },
+ {
+  "Name": "Imam abdul Rahman ",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.593198,
+  "Long": 32.460916,
+  "Address": "الفتيحاب مربع 7 ، جنوب شرق الفكي سنتر"
+ },
+ {
+  "Name": "ENT Hospital ",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.550796,
+  "Long": 32.548268,
+  "Address": "شارع القصر، شرق كلية الصيدلة جامعة الخرطوم"
+ },
+ {
+  "Name": "the Academy ",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.551352,
+  "Long": 32.542304,
+  "Address": "امتداد الدرجة الثالثة ، غرب جهاز شئون العاملين بالخارج ، و شرق مركز صحي سمير"
+ },
+ {
+  "Name": "Skin diseases Uni Hospital",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.599074,
+  "Long": 32.534836,
+  "Address": "شارع المك نمر الناحية الجنوبية"
+ },
+ {
+  "Name": "New Alban",
+  "Type": "Hospital ",
+  "Locality": "Sharg Elnil ",
+  "Lat": 15.629303,
+  "Long": 32.612817,
+  "Address": "الحاج يوسف ، امتداد الردمية مربع 8 ، شرق مدارس ودالسائح الثانوية"
+ },
+ {
+  "Name": "Balk Hospital",
+  "Type": "Hospital ",
+  "Locality": "Karari",
+  "Lat": 15.681721,
+  "Long": 32.470993,
+  "Address": "الثورة الحارة الرابعة ، غرب سوق الحارة الرابعة ، شمال قسم شرطة الحارة الرابعة"
+ },
+ {
+  "Name": "Tegani Hos for neuro-psychological ",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.641292,
+  "Long": 32.482722,
+  "Address": "حي البوستة ، شمال غرب قسم شرطة الأوسط"
+ },
+ {
+  "Name": "Jazeera-Aslanj ",
+  "Type": "Hospital ",
+  "Locality": "Karari",
+  "Lat": 15.880385,
+  "Long": 32.526739,
+  "Address": "الجزيرة إسلانج ، شرق الشارع الرئيسي"
+ },
+ {
+  "Name": "Khartoun Hospiatl ",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.597612,
+  "Long": 32.532764,
+  "Address": "شارع حوادث مستشفى الخرطوم"
+ },
+ {
+  "Name": "Dasouki Hospital ",
+  "Type": "Hospital ",
+  "Locality": "Karari",
+  "Lat": 15.699814,
+  "Long": 32.47659,
+  "Address": "الثورة الحارة التاسعة ، محطة حميدان"
+ },
+ {
+  "Name": "Rajhi Hospital ",
+  "Type": "Hospital ",
+  "Locality": "UM Bada ",
+  "Lat": 15.648291,
+  "Long": 32.369101,
+  "Address": "أمبدة دارالسلام مربع (5) ، جنوب استاد البشير ، و شرق محطة وقود ..."
+ },
+ {
+  "Name": "Ryhan Hospital",
+  "Type": "Hospital ",
+  "Locality": "Bahri",
+  "Lat": 15.738807,
+  "Long": 32.564935,
+  "Address": "السلمة جنوب، شارع الكدرو ،شمال المستشفى البيطري"
+ },
+ {
+  "Name": "Surorab Hospital ",
+  "Type": "Hospital ",
+  "Locality": "Karari",
+  "Lat": 15.923415,
+  "Long": 32.5409,
+  "Address": "السروراب"
+ },
+ {
+  "Name": "AL Shaab ",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.597773,
+  "Long": 32.534324,
+  "Address": "تقاطع شارع القيادة مع المك نمر"
+ },
+ {
+  "Name": "Abdul Fadeel Elmaad ",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.612415,
+  "Long": 32.54532,
+  "Address": "شارع النيل ، شرق وزارة الصحة الاتحادية"
+ },
+ {
+  "Name": "Ali Abdul Fatah ",
+  "Type": "Hospital ",
+  "Locality": "Bahri",
+  "Lat": 15.723673,
+  "Long": 32.580049,
+  "Address": "الدروشاب شمال، شمال محطة (17)"
+ },
+ {
+  "Name": "Freindship Hospital Un Durman ",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.659799,
+  "Long": 32.461972,
+  "Address": "حي العرب الصناعات، غرب السوق الشعبي ، و شرق تقاطع الجميعاب"
+ },
+ {
+  "Name": "Sadaka ",
+  "Type": "Hospital ",
+  "Locality": "Bahri",
+  "Lat": 16.146511,
+  "Long": 32.639787,
+  "Address": "قري شارع التحدي ، غرب مصفاة الخرطوم"
+ },
+ {
+  "Name": "Fateh ",
+  "Type": "Hospital ",
+  "Locality": "Karari",
+  "Lat": 15.804799,
+  "Long": 32.397154,
+  "Address": "مدينة الفتح (2) ، سوق (9) ، جنوب قسم شرطة الفتح (2)"
+ },
+ {
+  "Name": "Kabashi",
+  "Type": "Hospital ",
+  "Locality": "Bahri",
+  "Lat": 15.891986,
+  "Long": 32.578618,
+  "Address": "الكباشي ، شارع التحدي ، شمال قبة الشيخ الكباشي"
+ },
+ {
+  "Name": "Tropical hosiptal ",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.641781,
+  "Long": 32.493788,
+  "Address": "شمال الإذاعة السودانية و شرق سجن أم درمان"
+ },
+ {
+  "Name": "El Do ",
+  "Type": "Hospital ",
+  "Locality": "Karari",
+  "Lat": 15.688984,
+  "Long": 32.490453,
+  "Address": "الثورة بالنص ، الحارة الثامنة شرق ميدان المولد"
+ },
+ {
+  "Name": "Waledeen Hospital ",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.643722,
+  "Long": 32.467752,
+  "Address": "شارع العرضة غرب استاد المريخ ، جنوب مدارس الدوش الثانوية بنين"
+ },
+ {
+  "Name": "Maternity Hospital Un Durman",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.635476,
+  "Long": 32.489822,
+  "Address": "الموردة، شمال بوابة عبدالقيوم"
+ },
+ {
+  "Name": "Ibrahim Malik",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.535674,
+  "Long": 32.546923,
+  "Address": "الصحافة شرق، شمال آخر محطة الصحافة شرق"
+ },
+ {
+  "Name": "Abu Dulik",
+  "Type": "Hospital ",
+  "Locality": "Sharg Elnil ",
+  "Lat": 15.931039,
+  "Long": 33.860841,
+  "Address": "أبودليق وسط، شمال سوق أبودليق"
+ },
+ {
+  "Name": "Ahmad Kasem Urology and Paediatric",
+  "Type": "Hospital ",
+  "Locality": "Bahri",
+  "Lat": 15.634654,
+  "Long": 32.532021,
+  "Address": "المزاد جنوب، شارع المعونة، جوار مبنى كهرباء سعد قشرة"
+ },
+ {
+  "Name": "Um Bada Hospital ",
+  "Type": "Hospital ",
+  "Locality": "UM Bada ",
+  "Lat": 15.665169,
+  "Long": 32.418036,
+  "Address": "أمبدة دار السلام ، شمال غرب سوق ليبيا ، مدخل شارع شريان الشمال"
+ },
+ {
+  "Name": "UnDurman Uni Hospital",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.641892,
+  "Long": 32.488117,
+  "Address": "حي البوستة، شمال حوش الخليفة"
+ },
+ {
+  "Name": "Um Dawo",
+  "Type": "Hospital ",
+  "Locality": "Sharg Elnil ",
+  "Lat": 15.43711,
+  "Long": 32.922721,
+  "Address": "أم ضوابان حي المستشفى، جنوب محكمة أم ضوابان"
+ },
+ {
+  "Name": "Um Kuni",
+  "Type": "Hospital ",
+  "Locality": "Karari",
+  "Lat": 16.079119,
+  "Long": 32.535558,
+  "Address": "الريف الشمالي، أم كتي"
+ },
+ {
+  "Name": "Saudi Um Durman ",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.669414,
+  "Long": 32.483101,
+  "Address": "شارع الثورة بالنص، غرب جامعة أم درمان الإسلامية ، شرق حديقة أم درمان الكبرى"
+ },
+ {
+  "Name": "Bahri Uni Hospital",
+  "Type": "Hospital ",
+  "Locality": "Bahri",
+  "Lat": 15.625922,
+  "Long": 32.528616,
+  "Address": "المحطة الوسطى"
+ },
+ {
+  "Name": "Bashaier Hospital",
+  "Type": "Hospital ",
+  "Locality": "Jabal Awlyia",
+  "Lat": 15.490221,
+  "Long": 32.551756,
+  "Address": "مايو جنوب الحزام"
+ },
+ {
+  "Name": "Jabal Awlia Hospital",
+  "Type": "Hospital ",
+  "Locality": "Jabal Awlyia",
+  "Lat": 15.241443,
+  "Long": 32.498171,
+  "Address": "غرب سوق جبل أولياء، جنوب مستشفى السلاح الطبي جبل أولياء"
+ },
+ {
+  "Name": "Jubail El Tena ",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.250994,
+  "Long": 32.476114,
+  "Address": "بشائر، جبل أولياء غرب، شرق الزلط"
+ },
+ {
+  "Name": "Haj El Safi",
+  "Type": "Hospital ",
+  "Locality": "Bahri",
+  "Lat": 15.651149,
+  "Long": 32.531419,
+  "Address": "الصافية، شارع المعونة، جنوب قسم شرطة الصافية"
+ },
+ {
+  "Name": "Jafaar Ebn Owf paediatric Hospital ",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.549526,
+  "Long": 32.539537,
+  "Address": "شارع المك نمر الناحية الجنوبية، شمال مستشفى الجلدية"
+ },
+ {
+  "Name": "Suba Uni Hospital ",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.507635,
+  "Long": 32.624242,
+  "Address": "سوبا، شارع مدني"
+ },
+ {
+  "Name": "Sharg Elnil Hospital",
+  "Type": "Hospital ",
+  "Locality": "Sharg Elnil ",
+  "Lat": 15.597934,
+  "Long": 32.604913,
+  "Address": "القادسية جنوب ، جنوب شارع كبري المنشية، شمال مجمع محاكم شرق النيل"
+ },
+ {
+  "Name": "Shawamek Internation Hospital",
+  "Type": "Hospital ",
+  "Locality": "Khartoum",
+  "Lat": 15.577585,
+  "Long": 32.549426,
+  "Address": "العمارات شارع 21 ، شرق مستشفى ابن سينا"
+ },
+ {
+  "Name": "Libya Hospital ",
+  "Type": "Hospital ",
+  "Locality": "UM Bada ",
+  "Lat": 15.647192,
+  "Long": 32.418524,
+  "Address": "أمبدة الحارة (30) ، شارع الـ30 ، نهاية سوق ليبيا، غرب محطة وقود أبوزيد"
+ },
+ {
+  "Name": "Mohamad Amin Hamid for paediatric surgery",
+  "Type": "Hospital ",
+  "Locality": "Un Durman ",
+  "Lat": 15.642629,
+  "Long": 32.478181,
+  "Address": "حي البوستة، شرق مستشفى أم درمان و شمال مسجد الخليفة"
+ },
+ {
+  "Name": "Nafisa Hospital for day care surgery ",
+  "Type": "Hospital ",
+  "Locality": "Jabal Awlyia",
+  "Lat": 15.463703,
+  "Long": 32.479697,
+  "Address": "الكلاكلة القبة، شمال غرب المستشفى التركي"
+ },
+ {
+  "Name": "Wad Abo Salih ",
+  "Type": "Hospital ",
+  "Locality": "Sharg Elnil ",
+  "Lat": 15.559953,
+  "Long": 33.329118,
+  "Address": "منطقة ودأبوصالح ، شمال المسيد"
+ }
+]
